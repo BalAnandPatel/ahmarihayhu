@@ -838,8 +838,8 @@
                             <div id="popular" class="fade in tab-pane tab_pane active">
                                 <div class="col-md-12 col-xs-12 padding_remove tab_inner">
                                     <div class="col-md-4 col-xs-4 padding_remove">
-                                        <img class="img-responsive pull-left" src="images/Operation_Dr_Amrita.jpg"
-                                            alt="Tumor Operated">
+                                        <!-- <img class="img-responsive pull-left" src="images/Operation_Dr_Amrita.jpg"
+                                            alt="Tumor Operated"> -->
                                     </div>
                                     <div class="col-md-8 col-xs-8">
                                         <div class="post-title-side">A Big Tumor has been taken out from the Patient Ms.
@@ -851,8 +851,9 @@
                                 <div class="col-md-12 col-xs-12 padding_remove tab_inner">
                                     <div class="col-md-4 col-xs-4 padding_remove">
                                         <a href="#Press_Release.php">
-                                            <img class="img-responsive pull-left" src="images/Operation%201.jpg"
-                                                alt="Laproscopic Appendicectomy by Dr.Doctor Name"></a>
+                                            <!-- <img class="img-responsive pull-left" src="images/Operation%201.jpg"
+                                                alt="Laproscopic Appendicectomy by Dr.Doctor Name"> -->
+                                            </a>
                                     </div>
                                     <div class="col-md-8 col-xs-8" style="width:78%">
                                         <div class="post-title-side">Famous Pediatric Surgeon Dr.Doctor Name
@@ -863,8 +864,8 @@
                                 </div>
                                 <div class="col-md-12 col-xs-12 padding_remove tab_inner">
                                     <div class="col-md-4 col-xs-4 padding_remove">
-                                        <img class="img-responsive pull-left" src="images/Hospital/Hospital_Small.png"
-                                            alt="">
+                                        <!-- <img class="img-responsive pull-left" src="images/Hospital/Hospital_Small.png"
+                                            alt=""> -->
                                     </div>
                                     <div class="col-md-8 col-xs-8">
                                         <div class="post-title-side">We have Launched our Website with User Friendly
