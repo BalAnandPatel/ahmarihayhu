@@ -21,7 +21,7 @@
                                         data-easing="Back.easeOut" data-endspeed="400" data-endeasing="Power1.easeIn">
                                         <p style="color: black; font-family: 'Arimo', sans-serif; font-size:32px;">
                                             Welcome to the Astha Hospital !<br>
-                                            <span style="color:blue; font-size:26px;"> Tagore Town, Allahabad.</span>
+                                            <!-- <span style="color:blue; font-size:26px;"> Tagore Town, Mariahun.</span> -->
                                     </div>
                                     <!-- LAYER NR. 7 -->
 
@@ -730,7 +730,7 @@
                                         </p>
                                     </div>
                                     <p>Astha is the genesis of the dream seen ten years back by few Super-Specialists
-                                        of the Allahabad city to provide superspeciality services under one roof. The
+                                        of the Mariahun city to provide superspeciality services under one roof. The
                                         dream nurtured and grew within the founder directors of Astha Hospitals
                                         Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name,
                                         & Dr.Doctor Name until the point of culmination happened in 2012.
@@ -757,7 +757,7 @@
                                         </p>
                                     </div>
                                     <p>&nbsp;
-                                        In Astha Hospital, Allahabad - Intensive care units cater to patients with
+                                        In Astha Hospital, Mariahun - Intensive care units cater to patients with
                                         severe and life-threatening illnesses and
                                         injuries, which require constant, close monitoring and support from specialist
                                         equipment and medications in order to
@@ -812,7 +812,7 @@
                                         </p>
                                     </div>
                                     <p>
-                                        Astha Hospital, Allahabad has a comprehensive diagnostic center or medical
+                                        Astha Hospital, Mariahun has a comprehensive diagnostic center or medical
                                         laboratory which is excellently committed in taking care of Patients’ Medical
                                         Test.
                                         We educate the Patient also about their diseases and test it with our various
@@ -857,7 +857,7 @@
                                     <div class="col-md-8 col-xs-8" style="width:78%">
                                         <div class="post-title-side">Famous Pediatric Surgeon Dr.Doctor Name
                                             successfully performed Laproscopic Appendicectomy of a 5 Year Old NRI Child
-                                            in Astha Hospital, Allahabad. </div>
+                                            in Astha Hospital, Mariahun. </div>
                                         <!--                               <div class="post-date-side">Jan, 30th, 2017</div> -->
                                     </div>
                                 </div>
@@ -1151,7 +1151,7 @@
                                         etc.
                                         We provide a wide range of child care services mainly to highlight Pediatric
                                         Laproscopic Surgery in Children which is established and having expertise at
-                                        very less centers in North India. Astha Hospital in Allahabad is one of those
+                                        very less centers in North India. Astha Hospital in Mariahun is one of those
                                         centers where this Laparoscopic Surgery is being done successfully.
 
                                     </p>
@@ -1177,7 +1177,7 @@
                                         etc.
                                         We provide a wide range of child care services mainly to highlight Pediatric
                                         Laproscopic Surgery in Children which is established and having expertise at
-                                        very less centers in North India. Astha Hospital in Allahabad is one of those
+                                        very less centers in North India. Astha Hospital in Mariahun is one of those
                                         centers where this Laparoscopic Surgery is being done successfully.
 
                                     </p>
@@ -1376,14 +1376,14 @@
                                                 <p style="text-align: justify;width:95%;">
                                                     <i class="fa fa-quote-left quote-left"></i>&nbsp;
                                                     I am very happy for such a Well-Maintained with High Standard
-                                                    Facilities Hospital situated in our Allahabad City. I visited the
+                                                    Facilities Hospital situated in our Mariahun City. I visited the
                                                     Hospital on June, 2016 for the treatment and I am totally satisfied
                                                     with the treatment and the service by the hospital. Very much
                                                     pleased
                                                     with all the Staffs and their Care.
                                                     <i class="fa fa-quote-right quote-right"></i>
                                                 </p>
-                                                <h5><strong>Surabhi Jain,</strong>&nbsp; Allahabad</h5>
+                                                <h5><strong>Surabhi Jain,</strong>&nbsp; Mariahun</h5>
                                             </div>
                                         </div>
                                         <a href="#Testimonials.php">
@@ -1415,7 +1415,7 @@
                                                     my well-being was exceptional.
                                                     <i class="fa fa-quote-right quote-right"></i>
                                                 </p>
-                                                <h5><strong>Amit Saini </strong>Allahabad</h5>
+                                                <h5><strong>Amit Saini </strong>Mariahun</h5>
                                             </div>
                                         </div>
                                         <a href="#Testimonials.php">
@@ -1447,7 +1447,7 @@
                                                     absolutely Healthy. I wish you a lot of Thanks.
                                                     <i class="fa fa-quote-right quote-right"></i>
                                                 </p>
-                                                <h5><strong>Dr.Doctor Name </strong>&nbsp; Allahabad</h5>
+                                                <h5><strong>Dr.Doctor Name </strong>&nbsp; Mariahun</h5>
                                             </div>
                                         </div>
                                         <a href="#Testimonials.php">
