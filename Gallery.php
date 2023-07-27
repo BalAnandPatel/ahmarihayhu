@@ -31,26 +31,26 @@
                    
                        
                             <div class="list-group">
-                                <a href="Press_Release.html" class="list-group-item">
+                                <a href="#Press_Release.html" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Press Release</span>
                         </a>
-                                <a href="Social_Media_Coverage.html" class="list-group-item">
+                                <a href="#Social_Media_Coverage.html" class="list-group-item">
                             <h4 class="fa fa-user fontawsme"></h4><span>Social Media Coverage</span>
                         </a>
-                                <a href="health_checkup_packages.html" class="list-group-item">
+                                <a href="#health_checkup_packages.html" class="list-group-item">
                             <h4 class="fa fa-h-square fontawsme"></h4><span>Health Checkup Packages</span>
                         </a>
-                                <a href="Gallery.html" class="list-group-item active">
+                                <a href="#Gallery.html" class="list-group-item active">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Gallery</span>
                         </a>
-                                <a href="Health_Tips.html" class="list-group-item">
+                                <a href="#Health_Tips.html" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Health Tips</span>
                         </a>
-                                <a href="Events_Free_Check_Ups.html" class="list-group-item">
+                                <a href="#Events_Free_Check_Ups.html" class="list-group-item">
                             <h4 class="fa fa-plus-square fontawsme"></h4><span>Events and Free Check Ups</span>
                         </a>
                     
-                                <a href="Testimonials.html" class="list-group-item">
+                                <a href="#Testimonials.html" class="list-group-item">
                             <h4 class="fa fa-eye fontawsme"></h4><span>Testimonials</span>
                         </a>
 <!--                                <a href="News_Letters.php" class="list-group-item">
@@ -66,376 +66,42 @@
                       </div>
                 <div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 bhoechie-tab">
                     <div class="row gallery clearfix">
-                        <div class="col-sm-12 col-md-12 col-lg-12">
-                              <h4 style="font-size:18px; color:red; border-bottom: 2px solid black; padding-bottom: 5px;">Check Our Hospital Photos !
-                                  <span style="float:right; font-size: 12px;">Click on the Image !</span></h4> 
-                        </div>
-                       
-                        <div class="col-sm-12 col-md-12 col-lg-12">
-                        <h3 style="font-size: 14px;background: #F8F8F8;color: #0B53A5;padding: 7px;     border-bottom: 1px solid black;">
-                               Hospital Photos
-                            </h3>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/FrontView.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/FrontView.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Front View" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Frontview3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Frontview3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Front View" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/frontview4.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/frontview4.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Front View" />
-                            </a>
-                        </div>
                         
-                        
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Astha_H_Waiting_Area.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Astha_H_Waiting_Area.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Waiting Area" />
+                        <div class="col-sm-12 col-md-3 col-lg-3 col-xs-12" style="margin-bottom: 15px;">
+                            <a href="images/Gallery2/gallery_logo.png" rel="prettyPhoto[gallery1]" title="Click Here">
+                                <img src="images/Gallery2/gallery_logo.png" style="width:100%;height:150px;" alt="Astha Hospital Pathology Center" />
                             </a>
                         </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Astha_H_Waiting_Area1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Astha_H_Waiting_Area1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Waiting Area" />
+                         <div class="col-sm-12 col-md-3 col-lg-3 col-xs-12" style="margin-bottom: 15px;">
+                            <a href="images/Gallery2/gallery_logo.png" rel="prettyPhoto[gallery1]" title="Click Here">
+                                <img src="images/Gallery2/gallery_logo.png" style="width:100%;height:150px;" alt="Astha Hospital Pathology Center" />
                             </a>
                         </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Astha_H_Waiting_Area2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Astha_H_Waiting_Area2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Waiting Area" />
+                         <div class="col-sm-12 col-md-3 col-lg-3 col-xs-12" style="margin-bottom: 15px;">
+                            <a href="images/Gallery2/gallery_logo.png" rel="prettyPhoto[gallery1]" title="Click Here">
+                                <img src="images/Gallery2/gallery_logo.png" style="width:100%;height:150px;" alt="Astha Hospital Pathology Center" />
                             </a>
                         </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Astha_H_Waiting_Area3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Astha_H_Waiting_Area3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Waiting Area" />
+                         <div class="col-sm-12 col-md-3 col-lg-3 col-xs-12" style="margin-bottom: 15px;">
+                            <a href="images/Gallery2/gallery_logo.png" rel="prettyPhoto[gallery1]" title="Click Here">
+                                <img src="images/Gallery2/gallery_logo.png" style="width:100%;height:150px;" alt="Astha Hospital Pathology Center" />
                             </a>
                         </div>
-                         
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Reception.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Reception.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Reception" />
+                         <div class="col-sm-12 col-md-3 col-lg-3 col-xs-12" style="margin-bottom: 15px;">
+                            <a href="images/Gallery2/gallery_logo.png" rel="prettyPhoto[gallery1]" title="Click Here">
+                                <img src="images/Gallery2/gallery_logo.png" style="width:100%;height:150px;" alt="Astha Hospital Pathology Center" />
                             </a>
                         </div>
-
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Reception2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Reception2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Reception" />
+                         <div class="col-sm-12 col-md-3 col-lg-3 col-xs-12" style="margin-bottom: 15px;">
+                            <a href="images/Gallery2/gallery_logo.png" rel="prettyPhoto[gallery1]" title="Click Here">
+                                <img src="images/Gallery2/gallery_logo.png" style="width:100%;height:150px;" alt="Astha Hospital Pathology Center" />
                             </a>
                         </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Reception3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Reception3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Reception" />
+                         <div class="col-sm-12 col-md-3 col-lg-3 col-xs-12" style="margin-bottom: 15px;">
+                            <a href="images/Gallery2/gallery_logo.png" rel="prettyPhoto[gallery1]" title="Click Here">
+                                <img src="images/Gallery2/gallery_logo.png" style="width:100%;height:150px;" alt="Astha Hospital Pathology Center" />
                             </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/reception11.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/reception11.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Reception" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/reception112.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/reception112.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Reception" />
-                            </a>
-                        </div>
-
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Pharmacy.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Pharmacy.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Pharmacy" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Opdblock.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Opdblock.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital OPD Block" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Opdblock1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Opdblock1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital OPD Block" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Opdblock3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Opdblock3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital OPD Block" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Opdblock5.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Opdblock5.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital OPD Block" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Gallery.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Gallery.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Walking Street" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/gallery2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/gallery2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Walking Street" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/PatientRoom.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/PatientRoom.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Patient Room" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Patientroom2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Patientroom2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Patient Room" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Patientroom3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Patientroom3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Patient Room" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/icu.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/icu.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital ICU" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/icu1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/icu1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital ICU" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/icu2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/icu2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital ICU" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/icu4.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/icu4.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital ICU" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/icu3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/icu3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital ICU" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/nicu.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/nicu.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital NICU" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/picu.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/picu.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital PICU" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/picu1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/picu1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital PICU" />
-                            </a>
-                        </div> <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/ot1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/ot1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                        
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/Astha_H_OT.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Astha_H_OT.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                      <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                         <a href="images/Gallery2/Astha_H_Operation_Performing.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                             <img src="images/Gallery2/Astha_H_Operation_Performing.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                  <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                     <a href="images/Gallery2/Astha_H_Operation_Performing1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                         <img src="images/Gallery2/Astha_H_Operation_Performing1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-           <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                 <a href="images/Gallery2/Astha_H_Operation_Performing2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                     <img src="images/Gallery2/Astha_H_Operation_Performing2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-            
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot10.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot10.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot11.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot11.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div> <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/ot12.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/ot12.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot14.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot14.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot4.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/ot4.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot5.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot5.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/ot6.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot6.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot7.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot7.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Operation Theater" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/ot8.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/ot8.jpg" style="width: 100%;height: 70px;" alt="HAstha ospital Operation Theater" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Emergency.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Emergency.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Emergency Ward" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Dialysis.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Dialysis.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Dialysis Ward" />
-                            </a>
-                        </div>
-        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-            <a href="images/Gallery2/Astha_H_Semi_Private_Room.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                <img src="images/Gallery2/Astha_H_Semi_Private_Room.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Semi-Private Ward" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Dialysis1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Dialysis1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Dialysis Ward" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Dialysis3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Dialysis3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Dialysis Ward" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/DialysisUnit1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/DialysisUnit1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Dialysis Ward" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/admin.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/admin.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Administration" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/admin1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/admin1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Administration" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/admin2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/admin2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Administration" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/Solarpanel.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/Solarpanel.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Solar Panel" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/powerback.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/powerback.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Power Back Up" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/oxygenplant.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/oxygenplant.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Oxygen Plant" />
-                            </a>
-                        </div>
-                         <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                             <a href="images/Gallery2/oxygenplant2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                 <img src="images/Gallery2/oxygenplant2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Oxygen Plant" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/Watertreatment.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/Watertreatment.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Water Treatment Plant" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/parking.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/parking.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Parking" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/parking2.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/parking2.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Parking" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/xray.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/xray.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital X Ray" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/ultrasound.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/ultrasound.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Ultra Sound" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/pathology.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/pathology.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Pathology Center" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/pathology1.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/pathology1.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Pathology Center" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/pathology3.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/pathology3.jpg" style="width: 100%;height: 70px;" alt="Astha Hospital Pathology Center" />
-                            </a>
-                        </div>
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/Gallery2/pathology4.jpg" rel="prettyPhoto[gallery1]" title="Click Here">
-                                <img src="images/Gallery2/pathology4.jpg" style="width: 100%;height: 70px;" alt=" Astha Hospital Front Pathology Center" />
-                            </a>
-                        </div>
-<!--
-                        <div class="col-sm-12 col-md-12 col-lg-12">
-                            <h3 style="font-size: 14px;background: #F8F8F8;color: #0B53A5;padding: 7px;     border-bottom: 1px solid black;">
-                                26th january
-                            </h3> 
-                        </div>
-
-                        <div class="col-sm-12 col-md-2 col-lg-2 col-xs-12" style="margin-bottom: 15px;">
-                            <a href="images/presh/01.JPG" rel="prettyPhoto[gallery1]" title="You can add caption to pictures.">
-                                <img src="images/presh/01.JPG" style="width: 100%;height: 70px;" alt="Red round shape" />
-                            </a>
-                        </div>-->
-                        
-                        
-               
+                        </div>                     
 
                     </div>
                 </div>

@@ -11,7 +11,7 @@
                                 <!-- THE BOXSLIDE EFFECT EXAMPLES  WITH LINK ON THE MAIN SLIDE EXAMPLE -->
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider1.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 5 -->
 
@@ -38,7 +38,7 @@
                                 </li>
                                 <li data-transition="papercut" data-slotamount="7">
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider2.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_2.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 2 -->
                                     <div class="tp-caption skewfromright stl imed-sl1" data-x="left" data-y="65"
@@ -202,7 +202,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider3.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
                                     <!-- LAYER NR. 6 -->
                                     <div class="tp-caption bluebg-t2 sfr skewtoright imed-sl1" data-x="right"
@@ -226,7 +226,7 @@
                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                         data-start="3900" data-easing="Back.easeOut" data-endspeed="400"
                                         data-endeasing="Power1.easeIn">
-                                        <a href="Departments.php">
+                                        <a href="#Departments.php">
                                             <img src="images/new-slider/read-more-button-red.png"
                                                 style="width:250px; height:75px;"></a>
                                     </div>
@@ -235,7 +235,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider4.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_2.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
 
                                     <!-- LAYER NR. 5 -->
@@ -270,7 +270,7 @@
                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                         data-start="5700" data-easing="Back.easeOut" data-endspeed="400"
                                         data-endeasing="Power1.easeIn">
-                                        <a href="Patient_Rooms.php">
+                                        <a href="#Patient_Rooms.php">
                                             <img src="images/new-slider/enquire-now%20(2).png"
                                                 style="width:210px; height:50px;">
                                         </a>
@@ -280,7 +280,7 @@
                                 <li data-transition="papercut" data-slotamount="7">
 
                                     <!-- MAIN IMAGE -->
-                                    <img src="images/Hospital/slider5.jpg" alt="slidebg1" data-bgfit="cover"
+                                    <img src="images/Hospital/slider_1.jpg" alt="slidebg1" data-bgfit="cover"
                                         data-bgposition="left top" data-bgrepeat="no-repeat">
 
                                     <!-- LAYER NR. 5 -->
@@ -308,7 +308,7 @@
                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                         data-start="5700" data-easing="Back.easeOut" data-endspeed="400"
                                         data-endeasing="Power1.easeIn">
-                                        <a href="Doctor_Schedule.php">
+                                        <a href="#Doctor_Schedule.php">
                                             <img src="images/new-slider/enquire-now%20(2).png"
                                                 style="width:210px; height:50px;">
                                         </a>
@@ -337,14 +337,14 @@
                             <div class="form-group">
                                 <p style="font-size:11px;">
                                     <strong style="color:crimson; font-size:14px; font-weight: 400;">
-                                    <a href='' target='_blank'>Dr. R. K. Singh</a></strong><br>
+                                    <a href='' target='_blank'>Dr.Doctor Name</a></strong><br>
                                     M.B.B.S | M.D. | (Pediatric, Physician)
                                 </p>
                             </div>
                             <div class="form-group">
                                 <p style="font-size:11px;">
                                     <strong style="color:crimson; font-size:14px; font-weight: 400;">
-                                    <a href='' target='_blank'>Dr. Sanjay Singh</a></strong><br>
+                                    <a href='' target='_blank'>Dr.Doctor Name</a></strong><br>
                                             M.B.B.S | D.N.B | (Pediatric, Physician)
                                 </p>
                             </div>
@@ -353,8 +353,8 @@
                             <div class="form-group">
                                 <p style="font-size:11px;">
                                     <strong style="color:crimson; font-size:14px; font-weight: 400;">
-                                    <a href='' target='_blank'>Dr.
-                                            R. P. PAL</a></strong><br>
+                                    <a href='' target='_blank'>Dr.Doctor Name
+                                        </a></strong><br>
                                     M.S. (Surgeon)
                                 </p>
                             </div>
@@ -373,10 +373,10 @@
             <div class="container">
                 <div class="row">
                     <h3 class="secheadng2">Meet our doctors
-                        <p href="Departments.html" style="float:right; font-size:10px; color:black;">* Move the Cursor
+                        <p href="Departments.php" style="float:right; font-size:10px; color:black;">* Move the Cursor
                             Over the Doctor Image for the Detailed View.
                             <br>
-                            <a href="Doctors.html" style="float:right; font-size: 15px;">View All</a>
+                            <a href="Doctors.php" style="float:right; font-size: 15px;">View All</a>
                         </p>
                     </h3>
                     <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
@@ -384,21 +384,21 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_A_Gupta.jpg" alt="Dr. A Gupta"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="Dr_A_Gupta.html">View Profile</a></li>
+                                                <a href="#Dr_A_Gupta.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.
-                                            Gupta</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name
+                                        </strong><br>
                                         M.D. | DNB | (Nephrology)
                                     </p>
                                 </div>
@@ -406,21 +406,21 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Neogi.jpg" alt="Dr. Neogi"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="About_Doctors.html">View Profile</a></li>
+                                                <a href="#About_Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.
-                                            Neogi</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name
+                                            </strong><br>
                                         M.S. | FRCS | (Minimal Access Surgery)
                                     </p>
                                 </div>
@@ -429,23 +429,22 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Sanjay_Asthana.jpg" alt="Dr. Sanjay Asthana"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px;">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="http://www.drsanjayaasthana.com/" target='_blank'>Book An
+                                                <a href="#http://www.drsanjayaasthana.com/" target='_blank'>Book An
                                                     Appointment</a></li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="Dr_Sanjaya_Asthana.html">View Profile</a></li>
+                                                <a href="#Dr_Sanjaya_Asthana.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Sanjay
-                                            Asthana</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name </strong><br>
                                         M.S. | M.Ch | (Neurosurgery)
                                     </p>
                                 </div>
@@ -453,7 +452,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Dhanesh_Agrahari1.jpg" alt="Dr.Dhanesh Agrahari"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -462,14 +461,13 @@
                                                 <a href="http://drdhaneshagrahari.com/Appointment.php"
                                                     target="_blank">Request An Appointment</a></li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="Dr_Dhanesh_Agrahari.html">View Profile</a></li>
+                                                <a href="#Dr_Dhanesh_Agrahari.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Dhanesh
-                                            Agrahari</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name </strong><br>
                                         M.S. | M.Ch | (Pediatric Surgeon)
                                     </p>
                                 </div>
@@ -477,21 +475,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_J_V_Rai.jpg" alt="Dr. J.V. Rai"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="About_Doctors.html">View Profile</a></li>
+                                                <a href="#About_Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. J. V.
-                                            Rai</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name </strong><br>
                                         M.D. | MRCP | (Pediatrics)
                                     </p>
                                 </div>
@@ -500,21 +497,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Alok_Misra.png" alt="Dr. Alok Mishra"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="About_Doctors.html">View Profile</a></li>
+                                                <a href="#About_Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Alok
-                                            Mishra</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         M.D. | D.M. | (Gastroenterology)
                                     </p>
                                 </div>
@@ -522,21 +518,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Rupam_Sinha1.jpg" alt="Dr. Rupam Sinha"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                 <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="Dr_Rupam_Sinha.html">View Profile</a></li>
+                                                <a href="#Dr_Rupam_Sinha.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Rupam
-                                            Sinha</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         M.D.
                                     </p>
                                 </div>
@@ -545,21 +540,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Vibhav_Malviya.jpg" alt="Dr. Vibhav Malviya"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="About_Doctors.html">View Profile</a></li>
+                                                <a href="#About_Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Vibhav
-                                            Malviya</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         M.S. | M.Ch. |(Urology)
                                     </p>
                                 </div>
@@ -567,7 +561,7 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Amrita_Agrahari1.jpg" alt="Dr. Amrita Agrahari"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
@@ -576,14 +570,13 @@
                                                 <a href="http://drdhaneshagrahari.com/Appointment.php"
                                                     target="_blank">Request An Appointment</a></li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="Dr_Amrita_Agrahari.html">View Profile</a></li>
+                                                <a href="#Dr_Amrita_Agrahari.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Amrita
-                                            Agrahari</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         DGO | FICMCH | (Gynae.)
                                     </p>
                                 </div>
@@ -591,21 +584,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Smita_Srivastava.jpg" alt="Dr. Smita Srivastava"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="Dr_Smita_Srivastava.html">View Profile</a></li>
+                                                <a href="#Dr_Smita_Srivastava.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Smita
-                                            Srivastava</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         DGO - DNB | MNAMS | (Gynae.)
                                     </p>
                                 </div>
@@ -613,21 +605,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Urmi_Neogi.jpg" alt="Dr. Urmi Neogi"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="About_Doctors.html">View Profile</a></li>
+                                                <a href="#About_Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Urmi
-                                            Neogi</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         M.S. | (Gynae.)
                                     </p>
                                 </div>
@@ -636,21 +627,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Alpna_Sharma.jpg" alt="Dr. Alpana Sharma"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="About_Doctors.html">View Profile</a></li>
+                                                <a href="#About_Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Alpana
-                                            Sharma</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         M.D. | (Anaesthesia)
                                     </p>
                                 </div>
@@ -659,21 +649,20 @@
                             <div class="item">
                                 <div class="feed-img">
                                     <div class="clearfix">
-                                        <img src="images/Doctors/Dr_Shubha_Malviya.jpg" alt="Dr. Shubha Malviya"
+                                        <img src="images/Doctors/dr_logo.jpg" alt="Dr.Doctor Name"
                                             style="height:315px; padding:4px">
                                     </div>
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <!--                                <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;"><a href="Book_An_Appointment.php">Request An Appointment</a></li>-->
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="About_Doctors.html">View Profile</a></li>
+                                                <a href="#About_Doctors.php">View Profile</a></li>
                                         </ul>
                                     </div>
                                 </div>
                                 <div class="item_caption">
                                     <p>
-                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr. Shubha
-                                            Malviya</strong><br>
+                                        <strong style="color:crimson; font-size:16px; font-weight: 400;">Dr.Doctor Name</strong><br>
                                         DCH |(Paediatrics)
                                     </p>
                                 </div>
@@ -728,7 +717,7 @@
                                 <div id="tab-settings" class="tab-pane tab_pane fade in active">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/Hospital_Small.png" alt="Astha Hospital">
+                                            src="images/Hospital/hospital.png" alt="Astha Hospital">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -743,22 +732,21 @@
                                     <p>Astha is the genesis of the dream seen ten years back by few Super-Specialists
                                         of the Allahabad city to provide superspeciality services under one roof. The
                                         dream nurtured and grew within the founder directors of Astha Hospitals
-                                        Dr. Sanjay Asthana, Dr. J.V. Rai, Dr. Dhanesh Agrahari, Dr. R.K.Sinha , Dr.
-                                        Gupta, Dr. Alok Mishra, Dr. Vibhav Malviya,
-                                        & Dr. Neogi until the point of culmination happened in 2012.
+                                        Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name, Dr.Doctor Name,
+                                        & Dr.Doctor Name until the point of culmination happened in 2012.
                                         Astha hospital has been designed as an energy efficient building that complies
                                         with the ECBC (Energy Conservation Building Code) and sustainable design
                                         concepts have been incorporated in different aspects of the building design.
                                         It offers a convenient location for Patients, their Attendants and Families.
                                     </p>
-                                    <a href="About_Us.html"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="#About_Us.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;"></a>
                                 </div>
 
                                 <div id="tab-home" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/ICU_Small.png" alt="ICU Section" width="100%">
+                                            src="images/Hospital/hospital.png" alt="ICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -782,14 +770,14 @@
                                         Astha Hospital has 16 Bed ICU with Intensive Care and Staff Support.
 
                                     </p>
-                                    <a href="Intensive_Care_Unit.html"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="#Intensive_Care_Unit.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
                                 <div id="tab-profile" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/NICU_Small_Photo.png" alt="NICU Section" width="100%">
+                                            src="images/Hospital/hospital.png" alt="NICU Section" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -806,14 +794,14 @@
                                         Central Oxygen & Suction facility, Exchange Transfusion with Pulse - Oxymtery,
                                         Syringe Infusion Pump, and Ventilators etc.
                                     </p>
-                                    <a href="NICU.html"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="#NICU.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
                                 <div id="tab-messages" class="tab-pane tab_pane fade">
                                     <div class="col-md-3 padding_remove">
                                         <img class="img-responsive tab-img thumbnail"
-                                            src="images/Hospital/Pathology_Small.jpg" alt="image" width="100%">
+                                            src="images/Hospital/hospital.png" alt="image" width="100%">
                                     </div>
                                     <div class="col-md-9">
                                         <p>
@@ -830,7 +818,7 @@
                                         We educate the Patient also about their diseases and test it with our various
                                         medical tools present in our hospital.
                                     </p>
-                                    <a href="Pathology.html"><img src="images/Hospital/readmorebuttonblue.png"
+                                    <a href="#Pathology.php"><img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-10px;">
                                     </a>
                                 </div>
@@ -855,19 +843,19 @@
                                     </div>
                                     <div class="col-md-8 col-xs-8">
                                         <div class="post-title-side">A Big Tumor has been taken out from the Patient Ms.
-                                            Bharti Sharma by Dr. Amrita Agrahari (Obstetric & Gynecology Surgeon) on
+                                            Bharti Sharma by Dr.Doctor Name (Obstetric & Gynecology Surgeon) on
                                             22.06.2018.</div>
                                         <!--                                <div class="post-date-side">August, 13th, 2016</div>-->
                                     </div>
                                 </div>
                                 <div class="col-md-12 col-xs-12 padding_remove tab_inner">
                                     <div class="col-md-4 col-xs-4 padding_remove">
-                                        <a href="Press_Release.html">
+                                        <a href="#Press_Release.php">
                                             <img class="img-responsive pull-left" src="images/Operation%201.jpg"
-                                                alt="Laproscopic Appendicectomy by Dr. Dhanesh Agrahari"></a>
+                                                alt="Laproscopic Appendicectomy by Dr.Doctor Name"></a>
                                     </div>
                                     <div class="col-md-8 col-xs-8" style="width:78%">
-                                        <div class="post-title-side">Famous Pediatric Surgeon Dr. Dhanesh Agrahari
+                                        <div class="post-title-side">Famous Pediatric Surgeon Dr.Doctor Name
                                             successfully performed Laproscopic Appendicectomy of a 5 Year Old NRI Child
                                             in Astha Hospital, Allahabad. </div>
                                         <!--                               <div class="post-date-side">Jan, 30th, 2017</div> -->
@@ -984,7 +972,7 @@
                                     </div>
 
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="Oxygen_Plant.html">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="#Oxygen_Plant.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -996,7 +984,7 @@
                                         Water Treatment Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="Water_Treatment.html">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="#Water_Treatment.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -1008,7 +996,7 @@
                                         Solar Panel Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="Solar_Panel.html">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="#Solar_Panel.php">Read More</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1022,7 +1010,7 @@
                                         Power Back Up Plant
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="Power_BackUp_Plant.html">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="#Power_BackUp_Plant.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -1034,7 +1022,7 @@
                                         Operation Theater Unit
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="Operation_Unit.html">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="#Operation_Unit.php">Read More</a></div>
                                 </div>
                             </div>
                             <div class="col-sm-12 col-xs-12 col-md-4 col-lg-4 departmnt_sec">
@@ -1046,7 +1034,7 @@
                                         High End Dialysis Unit
                                     </div>
                                     <p>in Astha Hospital</p>
-                                    <div class="iconbox-readmore"><a href="Dialysis_Unit.html">Read More</a></div>
+                                    <div class="iconbox-readmore"><a href="#Dialysis_Unit.php">Read More</a></div>
                                 </div>
                             </div>
                         </div>
@@ -1060,7 +1048,7 @@
             <div class="container">
                 <div class="row">
                     <h3 class="secheadng2">Our Departments
-                        <a href="Departments.html" style="float:right; font-size: 15px;">View All</a>
+                        <a href="Departments.php" style="float:right; font-size: 15px;">View All</a>
                     </h3>
                     <div class="col-xs-12 col-md-12 col-lg-12 padding_remove" id="slider">
                         <!-- Top part of the slider -->
@@ -1130,7 +1118,7 @@
                                 <div id="slide-content-0">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Neuro Surgery
                                     </h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: justify;">Dr. Sanjay Asthana -
+                                    <p style="border-bottom: 1px solid grey; text-align: justify;">Dr.Doctor Name 
                                         M.S. | M.Ch. (Neurosurgery)</p>
                                     <p style="text-align: justify">
                                         - State that the surgery performed on the nervous system, especially in the
@@ -1144,7 +1132,7 @@
                                         Our Brain & Spine Care Team is focused on providing you only the best in Neuro
                                         Department in this zone.
                                     </p>
-                                    <a href="Neurosurgery_Department.html">
+                                    <a href="#Neurosurgery_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1154,7 +1142,7 @@
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Pediatric
                                         Surgery </h2>
                                     <p style="border-bottom: 1px solid grey; text-align: justify;">
-                                        Dr. Dhanesh Kr. Agrahari - M.S. | M.Ch. (Pediatric Surgery)</p>
+                                        Dr.Doctor Name- M.S. | M.Ch. (Pediatric Surgery)</p>
                                     <p style="text-align: justify">
                                         - State that its a subspecialty of surgery involving the surgery of fetuses,
                                         infants, children, adolescents, and teens. Subspecialties of pediatric surgery
@@ -1167,7 +1155,7 @@
                                         centers where this Laparoscopic Surgery is being done successfully.
 
                                     </p>
-                                    <a href="Pediatric_Surgery.html">
+                                    <a href="#Pediatric_Surgery.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1178,8 +1166,8 @@
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Pediatric &
                                         Neonatal </h2>
                                     <p style="border-bottom: 1px solid grey; text-align: justify;">
-                                        Dr. J. V. Rai - M.D. | MRCP (Pediatrics)<br>
-                                        Dr. Shubha Malviya - DCH (Pediatrics)
+                                        Dr.Doctor Name| MRCP (Pediatrics)<br>
+                                        Dr.Doctor Name - DCH (Pediatrics)
                                     </p>
                                     <p style="text-align: justify">
                                         - State that its a subspecialty of surgery involving the surgery of fetuses,
@@ -1193,7 +1181,7 @@
                                         centers where this Laparoscopic Surgery is being done successfully.
 
                                     </p>
-                                    <a href="Pediatric_Department.html">
+                                    <a href="#Pediatric_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1202,7 +1190,7 @@
                                 <div id="slide-content-3">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of
                                         Gastroenterology</h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr. Alok Mishra - M.D. |
+                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr.Doctor Name - M.D. |
                                         D.M. (Gastroenterology)</p>
                                     <p style="text-align: justify">
                                         - State that the branch of medicine which deals with disorders of the Stomach
@@ -1217,7 +1205,7 @@
                                         • Upper GI Procedure <br> Lower GI Procedure<br>
                                         • Endoscopic Retrograde Cholangiopancretography (ERCP) Capsule Endoscope
                                     </p>
-                                    <a href="Gastero_Department.html">
+                                    <a href="#Gastero_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1226,7 +1214,7 @@
                                 <div id="slide-content-4">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Nephrology
                                     </h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr. A. Gupta - M.D. |
+                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr.Doctor Name  |
                                         DNB (Nephrology)</p>
                                     <p style="text-align: justify">
                                         - States that the branch of medicine which deals with the Physiology and
@@ -1238,7 +1226,7 @@
                                         Diabetes and care of those requiring renal replacement therapy, including
                                         dialysis and renal transplantation.
                                     </p>
-                                    <a href="Nephrology_Department.html">
+                                    <a href="#Nephrology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1246,7 +1234,7 @@
 
                                 <div id="slide-content-5">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Urology</h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr. Vibhav Malviya -
+                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr.Doctor Name -
                                         M.S. | M.Ch. (Urology)</p>
                                     <p style="text-align: justify">
                                         - State that the branch of medicine that focuses on Surgical and Medical
@@ -1259,7 +1247,7 @@
                                         often affect the other. Thus, a major spectrum of the conditions managed in
                                         urology exists under the domain of genitourinary disorders.
                                     </p>
-                                    <a href="Urology_Department.html">
+                                    <a href="#Urology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1268,7 +1256,7 @@
                                 <div id="slide-content-6">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Pain
                                         Management</h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr. Rupam Sinha - M.D.
+                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr.Doctor Name - M.D.
 
                                     </p>
                                     <p style="text-align: justify">
@@ -1284,7 +1272,7 @@
                                         • Various Blocks to treat different types of Pain.<br>
                                         • Neuralgias and Neuropathic Pain including that of due to Diabetes.
                                     </p>
-                                    <a href="Pain_Management.html">
+                                    <a href="#Pain_Management.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1292,9 +1280,9 @@
                                 <div id="slide-content-7">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Gynaecology
                                         and Obstetrics</h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr. Amrita Madhab
+                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr.Doctor Name 
                                         Agrahari - DGO | FICMCH
-                                        | Dr. Smita Srivastava - DGO, DNB | Dr. Urmi Neogi - M.S. <br>
+                                        | Dr.Doctor Name - DGO, DNB | Dr.Doctor Name - M.S. <br>
 
                                     </p>
                                     <p style="text-align: justify">
@@ -1308,7 +1296,7 @@
                                         Our specialized team provides advanced fertility solutions to couples struggling
                                         to achieve pregnancy.
                                     </p>
-                                    <a href="Gynecology_Department.html">
+                                    <a href="#Gynecology_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1317,7 +1305,7 @@
                                 <div id="slide-content-8">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of General &
                                         Minimal Access Surgery</h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr. P. Neogi - M.S. FRCS
+                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr.Doctor Name - M.S. FRCS
 
                                     </p>
                                     <p style="text-align: justify">
@@ -1332,7 +1320,7 @@
                                         smaller amounts of anesthesia, less pain, and minimal scarring.
 
                                     </p>
-                                    <a href="General_Access_Minimal_Department.html">
+                                    <a href="#General_Access_Minimal_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-15px;">
                                     </a>
@@ -1340,7 +1328,7 @@
                                 <div id="slide-content-9">
                                     <h2 style="margin-top:0px; color:red; font-size: 18px;">Department of Anaesthesia &
                                         Critical Care Medicine </h2>
-                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr. Alpana Sharma - M.D.
+                                    <p style="border-bottom: 1px solid grey; text-align: left;">Dr.Doctor Name - M.D.
                                         (Anaesthesia)
                                     </p>
                                     <p style="text-align: justify">
@@ -1350,7 +1338,7 @@
                                         Anesthesia enables the painless performance of medical procedures that would
                                         cause severe or intolerable pain to an unanesthetized Patient.
                                     </p>
-                                    <a href="Anesthesia_Department.html">
+                                    <a href="#Anesthesia_Department.php">
                                         <img src="images/Hospital/readmorebuttonblue.png"
                                             style="width:150px; height:55px; float:right; margin-top:-25px;">
                                     </a>
@@ -1398,7 +1386,7 @@
                                                 <h5><strong>Surabhi Jain,</strong>&nbsp; Allahabad</h5>
                                             </div>
                                         </div>
-                                        <a href="Testimonials.html">
+                                        <a href="#Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1430,7 +1418,7 @@
                                                 <h5><strong>Amit Saini </strong>Allahabad</h5>
                                             </div>
                                         </div>
-                                        <a href="Testimonials.html">
+                                        <a href="#Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1443,7 +1431,7 @@
                                             <div class="col-sm-2 col-md-2 col-lg-2">
                                                 <div class="student">
                                                     <div class="photo">
-                                                        <img src="images/Testimonial/Rajendra%20Prasad.jpg"
+                                                        <img src="images/Hospital/Testimonial.jpg"
                                                             style="width: 100%; border-radius: 100%;vertical-align: middle;height: auto; max-width: 100%;"
                                                             class="round-image">
                                                     </div>
@@ -1452,17 +1440,17 @@
                                             <div class="col-sm-10 col-md-10 col-lg-10">
                                                 <p style="text-align: justify;width:95%;">
                                                     <i class="fa fa-quote-left quote-left"></i>&nbsp;
-                                                    "To Dr. Dhanesh Agrahari:- Sir, You have done surgery of my child
+                                                    "To Dr.Doctor Name:- Sir, You have done surgery of my child
                                                     very successfully in December, 2008 on 2nd
                                                     day of her birth and she was very
                                                     serious due to tracheo-oesophagal fistula. But, now, she is
                                                     absolutely Healthy. I wish you a lot of Thanks.
                                                     <i class="fa fa-quote-right quote-right"></i>
                                                 </p>
-                                                <h5><strong>Dr. Rajendra Prasad Verma,</strong>&nbsp; Allahabad</h5>
+                                                <h5><strong>Dr.Doctor Name </strong>&nbsp; Allahabad</h5>
                                             </div>
                                         </div>
-                                        <a href="Testimonials.html">
+                                        <a href="#Testimonials.php">
                                             <img style="width:150px; height:55px; float:right; margin-top:-10px;"
                                                 src="images/Hospital/readmorebuttonblue.png">
                                         </a>
@@ -1482,7 +1470,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <h3 class="secheadng3">Our Gallery
-                        <a href="Gallery.html" style="float:right; font-size: 15px;">View All</a>
+                        <a href="Gallery.php" style="float:right; font-size: 15px;">View All</a>
                     </h3>
 
                     <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
@@ -1490,12 +1478,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/Front_Area.png" alt="Owl Image"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.html">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Front View of Hospital</p>
 
                                             </li>
@@ -1507,12 +1495,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/Reception.png" alt="Owl Image"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.html">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Reception Area of Hospital</p>
                                                 <p>You Can Make an Enquiry Here.</p>
                                             </li>
@@ -1524,12 +1512,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/Lobby_Area.png" alt="Owl Image"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.html">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Lobby Area</p>
                                                 <p>Patient & Visitors Sitting Area</p>
                                             </li>
@@ -1541,12 +1529,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/NICU.png" alt="Owl Image"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.html">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned 8 Bedded NICU Ward</p>
                                                 <p>Pediatric Surgery Department</p>
                                             </li>
@@ -1558,7 +1546,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/ICU.png" alt="Owl Image"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1575,12 +1563,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/Floor_Wise_Reception.png"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.html">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Floor Wise Area</p>
                                                 <p>Floor Reception View</p>
                                             </li>
@@ -1592,12 +1580,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/General_Ward.png"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.html">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>General Ward</p>
 
                                             </li>
@@ -1609,12 +1597,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.html"><img src="images/Gallery/Semi_Private_Room.png"
+                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.html">Astha Hospital</a>
+                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
                                                 <p>Semi - Private Room</p>
                                                 <p>Fully - Air Conditioned</p>
                                             </li>
@@ -1687,7 +1675,7 @@
                                             <h3 class="flip-box-head-txt">Doctors OPD</h3>
                                             <p>Check the OPD Timing of the Doctors by Clicking Below.</p>
                                             <div class="flip_link"><a class="flip-read-more"
-                                                    href="Doctor_Schedule.html">Click Here!</a></div>
+                                                    href="Doctor_Schedule.php">Click Here!</a></div>
                                         </div><!-- END .back -->
 
                                     </div> <!-- ifb-flip-box -->
@@ -1743,7 +1731,7 @@
                                             <h3 class="flip-box-head-txt">Reach Us</h3>
                                             <p>Check the Direction Over Map to Reach Us.</p>
                                             <div class="flip_link"><a class="flip-read-more"
-                                                    href="Address_and_Direction_Map.html">Click Here !</a></div>
+                                                    href="Address_and_Direction_Map.php">Click Here !</a></div>
                                         </div><!-- END .back -->
 
                                     </div> <!-- ifb-flip-box -->

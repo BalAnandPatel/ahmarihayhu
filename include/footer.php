@@ -34,13 +34,13 @@
                 <div class="foot-widget-title">Quick Links</div>
                 <ul>
 
-                    <li><a href="Doctors.php">Doctors</a></li>
-                    <li><a href="Departments.php">Departments</a></li>
-                    <li><a href="Intensive_Care_Unit.php">Services</a></li>
-                    <li><a href="Patient_Rooms.php">Patient Rooms</a></li>
-                    <li><a href="About_Us.php">Who We Are</a></li>
-                    <li><a href="Why_Us-2.php">Why Us</a></li>
-                    <li><a href="Doctor_Schedule.php">OPD Schedule</a></li>
+                    <li><a href="#Doctors.php">Doctors</a></li>
+                    <li><a href="#Departments.php">Departments</a></li>
+                    <li><a href="#Intensive_Care_Unit.php">Services</a></li>
+                    <li><a href="#Patient_Rooms.php">Patient Rooms</a></li>
+                    <li><a href="#About_Us.php">Who We Are</a></li>
+                    <li><a href="#Why_Us-2.php">Why Us</a></li>
+                    <li><a href="#Doctor_Schedule.php">OPD Schedule</a></li>
                 </ul>
             </div>
 
@@ -48,10 +48,10 @@
             <div class="col-xs-12 col-sm-6 col-md-3 recent-post-foot foot-widget">
                 <div class="foot-widget-title" style="font-family: Montserrat;">Disclaimer</div>
                 <ul>
-                    <li><a href="Terms_Conditions.php">Terms & Conditions</a></li>
-                    <li><a href="Privacy_Policy.php">Privacy Policy</a></li>
-                    <li><a href="Guidelines_For_Patients.php">Guidelines for Patients</a></li>
-                    <li><a href="Guidelines_For_Visitors.php">Guidelines for Visitors</a></li>
+                    <li><a href="#Terms_Conditions.php">Terms & Conditions</a></li>
+                    <li><a href="#Privacy_Policy.php">Privacy Policy</a></li>
+                    <li><a href="#Guidelines_For_Patients.php">Guidelines for Patients</a></li>
+                    <li><a href="#Guidelines_For_Visitors.php">Guidelines for Visitors</a></li>
 
 
                 </ul>
