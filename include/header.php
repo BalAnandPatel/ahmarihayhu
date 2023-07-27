@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<!-- Mirrored from Asthahospital.org/About_Us.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Jul 2023 08:11:56 GMT -->
-<!-- Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
     <title>:: Astha Hospital Mariahu, the First Wide Ranging Multi and Super-Specialty Hospital of Mariahu City
@@ -133,7 +131,7 @@
                                     <li><a href="#About_Our_Logo.php">About our Logo</a></li>
                                     <li><a href="#Mission_And_Vision.php">Mission and Vision</a></li>
                                     <li><a href="#Why_Us-2.php">Why Us</a></li>
-                                    <!--                                    <li><a href="Achievements.php">Achievements</a></li>-->
+                                    <!--<li><a href="Achievements.php">Achievements</a></li>-->
                                     <li><a href="#Our_Values.php">Our Values</a></li>
                                 </ul>
                             </li>
@@ -176,11 +174,11 @@
                                     <li><a href="#Guidelines_For_Patients.php">Guidelines For Patients</a></li>
                                     <li><a href="#Guidelines_For_Visitors.php">Guidelines For Visitors</a></li>
                                     <li><a href="#Billing_Procedure.php">Billing Procedure</a></li>
-                                    <!--                                        <li><a href="Make_An_Appointment.php">Make An Appointment</a></li>-->
-                                    <!--                                        <li><a href="Success_Stories.php">Success Stories</a></li>-->
+                                    <!--<li><a href="Make_An_Appointment.php">Make An Appointment</a></li>-->
+                                    <!--<li><a href="Success_Stories.php">Success Stories</a></li>-->
                                     <li><a href="#Corporate_Tie_Ups.php">Corporate Tie-Ups</a></li>
                                     <li><a href="#Quality_Safety.php">Quality & Safety</a></li>
-                                    <!--                                        <li><a href="Online_Bill_Payment.php">Online Bill Payment</a></li>-->
+                                    <!--<li><a href="Online_Bill_Payment.php">Online Bill Payment</a></li>-->
 
                                 </ul>
                             </li>

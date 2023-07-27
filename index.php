@@ -31,7 +31,7 @@
                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                         data-start="3900" data-easing="Back.easeOut" data-endspeed="400"
                                         data-endeasing="Power1.easeIn">
-                                        <a href="About_Us.php">
+                                        <a href="#About_Us.php">
                                             <img src="images/Hospital/readmorebuttonblue.png" style="width:200px;">
                                         </a>
                                     </div>
@@ -189,7 +189,7 @@
                                         data-y="230" data-hoffset="205" data-speed="1500"
                                         data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0;scaleY:0;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
                                         data-start="7400" data-easing="Back.easeOut" data-endspeed="400"
-                                        data-endeasing="Power1.easeIn"><a href="Intensive_Care_Unit.php">
+                                        data-endeasing="Power1.easeIn"><a href="#Intensive_Care_Unit.php">
                                             <img src="images/new-slider/enquire-now%20(1).png" style="width:180px"></a>
                                     </div>
 
@@ -373,10 +373,10 @@
             <div class="container">
                 <div class="row">
                     <h3 class="secheadng2">Meet our doctors
-                        <p href="Departments.php" style="float:right; font-size:10px; color:black;">* Move the Cursor
+                        <p href="#Departments.php" style="float:right; font-size:10px; color:black;">* Move the Cursor
                             Over the Doctor Image for the Detailed View.
                             <br>
-                            <a href="Doctors.php" style="float:right; font-size: 15px;">View All</a>
+                            <a href="#Doctors.php" style="float:right; font-size: 15px;">View All</a>
                         </p>
                     </h3>
                     <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
@@ -458,7 +458,7 @@
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="http://drdhaneshagrahari.com/Appointment.php"
+                                                <a href="#http://drdhaneshagrahari.com/Appointment.php"
                                                     target="_blank">Request An Appointment</a></li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="#Dr_Dhanesh_Agrahari.php">View Profile</a></li>
@@ -567,7 +567,7 @@
                                     <div class="feed-btn indi-btn">
                                         <ul>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
-                                                <a href="http://drdhaneshagrahari.com/Appointment.php"
+                                                <a href="#http://drdhaneshagrahari.com/Appointment.php"
                                                     target="_blank">Request An Appointment</a></li>
                                             <li class="blue" style="font-family:'Arimo', sans-serif; font-weight: 400;">
                                                 <a href="#Dr_Amrita_Agrahari.php">View Profile</a></li>
@@ -1048,7 +1048,7 @@
             <div class="container">
                 <div class="row">
                     <h3 class="secheadng2">Our Departments
-                        <a href="Departments.php" style="float:right; font-size: 15px;">View All</a>
+                        <a href="#Departments.php" style="float:right; font-size: 15px;">View All</a>
                     </h3>
                     <div class="col-xs-12 col-md-12 col-lg-12 padding_remove" id="slider">
                         <!-- Top part of the slider -->
@@ -1470,7 +1470,7 @@
             <div class="container-fluid">
                 <div class="row">
                     <h3 class="secheadng3">Our Gallery
-                        <a href="Gallery.php" style="float:right; font-size: 15px;">View All</a>
+                        <a href="#Gallery.php" style="float:right; font-size: 15px;">View All</a>
                     </h3>
 
                     <div class="col-sm-12 col-md-12 col-lg-12 padding_remove">
@@ -1478,12 +1478,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
                                                 <p>Front View of Hospital</p>
 
                                             </li>
@@ -1495,12 +1495,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
                                                 <p>Reception Area of Hospital</p>
                                                 <p>You Can Make an Enquiry Here.</p>
                                             </li>
@@ -1512,12 +1512,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Lobby Area</p>
                                                 <p>Patient & Visitors Sitting Area</p>
                                             </li>
@@ -1529,12 +1529,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned 8 Bedded NICU Ward</p>
                                                 <p>Pediatric Surgery Department</p>
                                             </li>
@@ -1546,7 +1546,7 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png" alt="Owl Image"
                                                 class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
@@ -1563,12 +1563,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
                                                 <p>Air - Conditioned Floor Wise Area</p>
                                                 <p>Floor Reception View</p>
                                             </li>
@@ -1580,12 +1580,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
                                                 <p>General Ward</p>
 
                                             </li>
@@ -1597,12 +1597,12 @@
                             <div class="item">
                                 <div class="feed-img2">
                                     <div class="clearfix">
-                                        <a href="Gallery.php"><img src="images/Gallery/gallery_logo.png"
+                                        <a href="#Gallery.php"><img src="images/Gallery/gallery_logo.png"
                                                 alt="Owl Image" class=""></a>
                                     </div>
                                     <div class="feed-btn2 indi-btn">
                                         <ul>
-                                            <li class="bluee"><a href="Gallery.php">Astha Hospital</a>
+                                            <li class="bluee"><a href="#Gallery.php">Astha Hospital</a>
                                                 <p>Semi - Private Room</p>
                                                 <p>Fully - Air Conditioned</p>
                                             </li>
@@ -1675,7 +1675,7 @@
                                             <h3 class="flip-box-head-txt">Doctors OPD</h3>
                                             <p>Check the OPD Timing of the Doctors by Clicking Below.</p>
                                             <div class="flip_link"><a class="flip-read-more"
-                                                    href="Doctor_Schedule.php">Click Here!</a></div>
+                                                    href="#Doctor_Schedule.php">Click Here!</a></div>
                                         </div><!-- END .back -->
 
                                     </div> <!-- ifb-flip-box -->
@@ -1731,7 +1731,7 @@
                                             <h3 class="flip-box-head-txt">Reach Us</h3>
                                             <p>Check the Direction Over Map to Reach Us.</p>
                                             <div class="flip_link"><a class="flip-read-more"
-                                                    href="Address_and_Direction_Map.php">Click Here !</a></div>
+                                                    href="#Address_and_Direction_Map.php">Click Here !</a></div>
                                         </div><!-- END .back -->
 
                                     </div> <!-- ifb-flip-box -->

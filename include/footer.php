@@ -66,12 +66,12 @@
 
                 <div class="foot-widget-title">social media</div>
                 <div class="social-wrap">
-                    <div class="fb-page" data-href="https://www.facebook.com/Asthahospitalallahabad"
+                    <div class="fb-page" data-href="#https://www.facebook.com/Asthahospitalallahabad"
                         data-tabs="timeline" data-height="150" data-small-header="true"
                         data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false">
                         <blockquote cite="https://www.facebook.com/Asthahospitalallahabad"
                             class="fb-xfbml-parse-ignore"><a
-                                href="https://www.facebook.com/Asthahospitalallahabad">Astha Hospital</a>
+                                href="#https://www.facebook.com/Asthahospitalallahabad">Astha Hospital</a>
                         </blockquote>
                     </div>
                 </div>
